@@ -1,4 +1,4 @@
-pip install pyinstaller
-pip install argparse
-pip install pyyaml
-pip install elementpath
+pyinstaller
+argparse
+pyyaml
+elementpath
