@@ -21,7 +21,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r installResources.ps1
+          pip install -r LibInstall.txt
       - name: Build EXE
         run: |
           python program_do_konwersji.py
